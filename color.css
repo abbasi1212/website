@@ -1,0 +1,16 @@
+html{
+  background-color:#ffffff ;
+}
+h1{
+  text-align: center;
+color: rgb(10, 66, 151);
+}
+#center{
+  text-align: center;
+}
+p{
+  text-align: justify;
+}
+img{
+  height: 200pt;
+  width: 200px;
